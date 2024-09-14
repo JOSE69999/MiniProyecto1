@@ -1,0 +1,20 @@
+{
+  "name": "proyecto3",
+  "version": "1.0.0",
+  "description": "proyecto3",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "test": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
+  },
+  "author": "josegabriel",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-scripts": "^5.0.1"
+  }
+}
